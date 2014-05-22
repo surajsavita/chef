@@ -1,4 +1,4 @@
-# Chef
+# MyChef
 
 * Documentation: [http://docs.opscode.com](http://docs.opscode.com)
 * Source: [http://github.com/opscode/chef/tree/master](http://github.com/opscode/chef/tree/master)
